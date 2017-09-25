@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1506220453612_1" label="submission" name="submission">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R03-01-Rot-LinearSorting-Countingsort-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R04-01-Rot-Sorting-Gnome-e-Comb-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R05-01-Rot-Pilha-FilaCircular-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R06-01-Rot-Linked-list-abordagem-iterativa-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R07-01-Rot-Linked-list-abordagem-recursiva-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R08-01-Rot-TabelaHash-EndFechado-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R09-01-Rot-TabelaHash-EndAberto-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R10-01-Rot-Arvore-Binaria-de-Busca-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R11-01-Rot-BST-Comparator-Sorting-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R12-01-Rot-Heap-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R13-01-Rot-ArvoreAVL-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R14-01-Rot-ArvoreAVLCountFill-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R15-01-Rot-SkipList-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R16-01-Rot-ArvorePV-environment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/R17-01-Rot-ArvoreB-environment" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1506220185416_0" label="Window Working Set" name="Aggregate for window 1506220185415"/>
+</workingSetManager>

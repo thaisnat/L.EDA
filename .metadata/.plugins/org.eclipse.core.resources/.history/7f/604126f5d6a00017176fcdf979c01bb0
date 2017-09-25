@@ -1,0 +1,71 @@
+package sorting.linearSorting;
+
+import java.util.Arrays;
+
+import sorting.AbstractSorting;
+
+/**
+ * Classe que implementa do Counting Sort vista em sala. Desta vez este
+ * algoritmo deve satisfazer os seguitnes requisitos: - Alocar o tamanho minimo
+ * possivel para o array de contadores (C) - Ser capaz de ordenar arrays
+ * contendo numeros negativos
+ */
+public class ExtendedCountingSort extends AbstractSorting<Integer> {
+
+	@Override
+	public void sort(Integer[] array, int leftIndex, int rightIndex) {
+		if (leftIndex < rightIndex && array[leftIndex] != null && array.length > 0) {
+
+			int maior = retornaMaior(array, leftIndex, rightIndex);
+			Integer[] aux = new Integer[maior + 1];
+
+			for (int i = 0; i != maior + 1; i++) {
+				aux[i] = 0;
+			}
+
+			for (int i = leftIndex; i <= rightIndex; i++) {
+				aux[array[i]]++;
+			}
+
+			for (int i = 1; i <= maior; i++) {
+				aux[i] += aux[i - 1];
+			}
+
+			Integer[] result = Arrays.copyOf(array, array.length);
+
+			for (int i = leftIndex; i <= rightIndex; i++) {
+				int index = array[i];
+				int indexAux = aux[index];
+				result[leftIndex + indexAux - 1] = array[i];
+				aux[index]--;
+			}
+
+			for (int i = leftIndex; i <= rightIndex; i++) {
+				array[i] = result[i];
+			}
+		}
+	}
+
+	private int retornaMaior(Integer[] array, int leftIndex, int rightIndex) {
+		int maior = array[leftIndex];
+		for (int iArray = leftIndex+1; iArray <= rightIndex; iArray++) {
+			if(array[iArray] >= maior){
+				maior = array[iArray];
+			}
+		}
+		return maior;
+	}
+
+	private int retornaMenor(Integer[] array, int leftIndex, int rightIndex) {
+		int menor = array[leftIndex];
+		for (int iArray = leftIndex+1; iArray <= rightIndex; iArray++) {
+			if(array[iArray] <= menor){
+				menor = array[iArray];
+			}
+		}
+		return menor;
+	}
+
+
+
+}

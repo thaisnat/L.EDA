@@ -19,10 +19,6 @@ public class BTreeImpl<T extends Comparable<T>> implements BTree<T> {
 		return this.root;
 	}
 
-	private void setRoot(BNode<T> node) {
-		this.root = node;
-	}
-
 	@Override
 	public boolean isEmpty() {
 		return this.root.isEmpty();

@@ -445,3 +445,15 @@
 2017-10-09 00:27:16,166 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
 2017-10-09 00:27:16,171 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-10-09 00:27:16,172 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-09 00:58:28,669 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:58:28,747 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/main/resources
+2017-10-09 00:58:28,752 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:58:28,755 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/test/resources
+2017-10-09 01:06:21,479 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 01:06:21,492 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/main/resources
+2017-10-09 01:06:21,498 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 01:06:21,499 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/test/resources
+2017-10-09 01:07:40,234 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 01:07:40,235 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/main/resources
+2017-10-09 01:07:40,238 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 01:07:40,239 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/test/resources

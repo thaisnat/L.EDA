@@ -18,20 +18,66 @@ public class RecursiveDoubleLinkedListImpl<T> extends
 
 	@Override
 	public void insertFirst(T element) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (element != null) {
+			if (isEmpty()) {
+				setData(element);
+				RecursiveDoubleLinkedListImpl<T> nextNIL = new RecursiveDoubleLinkedListImpl<T>();
+				setNext(nextNIL);
+				nextNIL.setPrevious(this);
+				RecursiveDoubleLinkedListImpl<T> prevNIL = new RecursiveDoubleLinkedListImpl<T>();
+				setPrevious(prevNIL);
+				prevNIL.setNext(this);
+			} else {
+				RecursiveDoubleLinkedListImpl<T> nextNode = new RecursiveDoubleLinkedListImpl<T>(getData(), getNext(),
+						this);
+				setData(element);
+				setNext(nextNode);
+			}
+		}
 	}
 
 	@Override
 	public void removeFirst() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (!(isEmpty())) {
+			if (getNext() != null) {
+				setData(getNext().getData());
+				((RecursiveDoubleLinkedListImpl<T>) getNext()).removeFirst();
+			} else {
+				removeLast();
+			}
+		}
 	}
 
 	@Override
 	public void removeLast() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (!(isEmpty())) {
+			if (getNext().isEmpty()) {
+				setData(null);
+				setNext(null);
+			} else {
+				((RecursiveDoubleLinkedListImpl<T>) getNext()).removeLast();
+			}
+		}
+	}
+
+	@Override
+	public void insert(T element) {
+		if (element != null) {
+			if (isEmpty()) {
+				setData(element);
+				RecursiveDoubleLinkedListImpl<T> nextNIL = new RecursiveDoubleLinkedListImpl<T>();
+				setNext(nextNIL);
+				nextNIL.setPrevious(this);
+				if (getPrevious() == null) {
+					RecursiveDoubleLinkedListImpl<T> prevNIL = new RecursiveDoubleLinkedListImpl<T>();
+					setPrevious(prevNIL);
+					prevNIL.setNext(this);
+				}
+			} else {
+				getNext().insert(element);
+
+			}
+		}
 	}
 
 	public RecursiveDoubleLinkedListImpl<T> getPrevious() {

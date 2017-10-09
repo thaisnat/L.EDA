@@ -2,6 +2,7 @@ package adt.stack;
 
 import adt.linkedList.DoubleLinkedList;
 import adt.linkedList.RecursiveDoubleLinkedListImpl;
+import adt.linkedList.RecursiveSingleLinkedListImpl;
 
 public class StackRecursiveDoubleLinkedListImpl<T> implements Stack<T> {
 
@@ -15,32 +16,39 @@ public class StackRecursiveDoubleLinkedListImpl<T> implements Stack<T> {
 
 	@Override
 	public void push(T element) throws StackOverflowException {
-		// TODO Implement the method
-		throw new UnsupportedOperationException("Method not implemented");
+		if (isFull()) {
+			throw new StackOverflowException();
+		} else {
+			top.insertFirst(element);
+		}
+
 	}
 
 	@Override
 	public T pop() throws StackUnderflowException {
-		// TODO Implement the method
-		throw new UnsupportedOperationException("Method not implemented");
+		if (isEmpty()) {
+			throw new StackUnderflowException();
+		} else {
+			T result = top();
+			top.removeFirst();
+			return result;
+		}
 	}
 
+	@SuppressWarnings("unchecked")
 	@Override
 	public T top() {
-		// TODO Implement the method
-		throw new UnsupportedOperationException("Method not implemented");
+		return ((RecursiveSingleLinkedListImpl<T>) top).getData();
 	}
 
 	@Override
 	public boolean isEmpty() {
-		// TODO Implement the method
-		throw new UnsupportedOperationException("Method not implemented");
+		return top.isEmpty();
 	}
 
 	@Override
 	public boolean isFull() {
-		// TODO Implement the method
-		throw new UnsupportedOperationException("Method not implemented");
+		return top.size() == size;
 	}
 
 }

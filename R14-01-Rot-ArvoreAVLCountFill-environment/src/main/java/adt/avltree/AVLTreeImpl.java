@@ -3,7 +3,6 @@ package adt.avltree;
 import adt.bst.BSTImpl;
 import adt.bst.BSTNode;
 import adt.bt.Util;
-import adt.avltree.AVLCountAndFillImpl;
 //o certo
 /**
  * 
@@ -63,47 +62,31 @@ public class AVLTreeImpl<T extends Comparable<T>> extends BSTImpl<T> implements
 		}
 		return 0;
 	}
-
+	
+	
 	// AUXILIARY
 	protected void rebalance(BSTNode<T> node) {
-		
-		//contadores auxiliares
-		int contRr = 0, contRl = 0, contLl = 0, contLr = 0;
-		
+
 		if (node != null && !node.isEmpty()) {
 			int balance = calculateBalance(node);
 			if (Math.abs(balance) > 1) {
 				if (balance > 0) {
 					int sonBalance = calculateBalance((BSTNode<T>) node.getRight());
 					if (sonBalance < 0) {
-						Util.rightRotation((BSTNode<T>) node.getRight(), this);
-						contRr++;
+						Util.rightRotation((BSTNode<T>) node.getRight());
 					}
-					Util.leftRotation(node, this);
-					contRl++;
+					Util.leftRotation(node);
 				} else {
 					int sonBalance = calculateBalance((BSTNode<T>) node.getLeft());
 					if (sonBalance > 0) {
-						Util.leftRotation((BSTNode<T>) node.getLeft(), this);
-						contLl++;
+						Util.leftRotation((BSTNode<T>) node.getLeft());
 					}
-					Util.rightRotation(node, this);
-					contLr++;
-					
-					int countRR = 0, countRL = 0, countLL = 0, countLR = 0;
-					if(contRr > 0 && contLr > 0){
-						countRR += AVLCountAndFillImpl.RRcount();
-					}else if(contRr > 0  && contLl > 0){
-						countRL += AVLCountAndFillImpl.RLcount();
-					}else if(contLl > 0  && contRl > 0){
-						countLL += AVLCountAndFillImpl.LLcount();
-					}else if(contLl > 0  && contLr > 0){
-						countLR += AVLCountAndFillImpl.LRcount();
-					}
+					Util.rightRotation(node);
 				}
 			}
 		}
 	}
+	
 		
 	// AUXILIARY
 	protected void rebalanceUp(BSTNode<T> node) {

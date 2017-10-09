@@ -15,54 +15,41 @@ public class QueueDoubleLinkedListImpl<T> implements Queue<T> {
 
 	@Override
 	public void enqueue(T element) throws QueueOverflowException {
-		
-		if(isFull()){
+		if (isFull()) {
 			throw new QueueOverflowException();
-		}else{
-			list.insert(element);
+		} else {
+			this.list.insert(element);
 		}
 	}
-	
+
 	@Override
 	public T dequeue() throws QueueUnderflowException {
-		
-		T element = null;
-
-	      if (isEmpty()) {
-	         throw new QueueUnderflowException();
-	      } else {
-	    	  element = ((DoubleLinkedListImpl<T>) list).getHead().getData();
-	    	  list.removeFirst();
-	    	  return element;
-	      }
+		if (isEmpty()) {
+			throw new QueueUnderflowException();
+		} else {
+			T aux = this.head();
+			this.list.removeFirst();
+			return aux;
+		}
 	}
-	
+
 	@Override
 	public T head() {
-		if (!list.isEmpty()) {
-			return ((DoubleLinkedListImpl<T>) list).getHead().getData();
+		T head = null;
+		if (!isEmpty()) {
+			head = ((DoubleLinkedListImpl<T>) this.list).getHead().getData();
 		}
-		return null;
+		return head;
 	}
 
 	@Override
 	public boolean isEmpty() {
-		
-		if(list.size() == 0){
-			return true;
-		}else{
-			return false;
-		}
+		return this.list.isEmpty();
 	}
 
 	@Override
 	public boolean isFull() {
-		
-		if(list.size() == size){
-			return true;
-		}else{
-			return false;
-		}
+		return this.list.size() == this.size;
 	}
 
 }

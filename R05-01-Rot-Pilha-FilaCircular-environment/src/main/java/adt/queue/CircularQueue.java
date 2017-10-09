@@ -21,53 +21,56 @@ public class CircularQueue<T> implements Queue<T> {
 
 	@Override
 	public void enqueue(T element) throws QueueOverflowException {
-		if(isFull())
+		if (isFull()) {
 			throw new QueueOverflowException();
-		
-		if(element != null){
-			if(tail == -1){
-				head = 0;
-				tail = 0;
-			} else{
-				tail = (tail + 1) % capacity;
-			}
-			
-			array[tail] = element;
-			elements++;
-		}	
+		}
+		if (isEmpty() && element != null) {
+			this.head = 0;
+			this.tail = 0;
+			this.array[this.tail] = element;
+			this.elements++;
+		} else if (element != null) {
+			this.tail = (this.tail + 1) % this.array.length;
+			this.array[tail] = element;
+			this.elements++;
+		}
 	}
 
 	@Override
 	public T dequeue() throws QueueUnderflowException {
-		if(isEmpty())
+		if (isEmpty()) {
 			throw new QueueUnderflowException();
-		T element = array[head];
-		elements--;
-		if(head == tail){
-			head = -1;
-			tail = -1;
-		}else{
-			head = (head+1) % capacity;
 		}
-		return element;
+		T aux = this.array[this.head];
+		if (this.head == this.tail) {
+			this.head = -1;
+			this.tail = -1;
+		} else {
+			this.head = (this.head + 1) % this.array.length;
+		}
+		this.elements--;
+		return aux;
 	}
 
 	@Override
 	public T head() {
-		T elem = null;
-		if(head != -1){
-			elem = array[head];
+		T aux;
+		if (isEmpty()) {
+			aux = null;
+		} else {
+			aux = this.array[this.head];
 		}
-		return elem;
+		return aux;
 	}
 
 	@Override
 	public boolean isEmpty() {
-		return elements == 0;
+		return this.elements == 0;
 	}
 
 	@Override
 	public boolean isFull() {
-		return elements == capacity;
+		return this.elements == this.array.length;
 	}
+
 }

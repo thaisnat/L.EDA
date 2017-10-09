@@ -17,38 +17,78 @@ public class RecursiveSingleLinkedListImpl<T> implements LinkedList<T> {
 
 	@Override
 	public boolean isEmpty() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		boolean result = false;
+		if (getData() == null) {
+			result = true;
+		}
+		return result;
 	}
 
 	@Override
 	public int size() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		int result = 0;
+		if (!(isEmpty())) {
+			result = 1 + getNext().size();
+		}
+		return result;
 	}
 
 	@Override
 	public T search(T element) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		T result = null;
+		if (element != null) {
+			if (!(isEmpty())) {
+				if (getData().equals(element)) {
+					result = data;
+				} else {
+					result = getNext().search(element);
+				}
+			}
+		}
+		return result;
 	}
 
 	@Override
 	public void insert(T element) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (element != null) {
+			if (isEmpty()) {
+				setData(element);
+				setNext(new RecursiveSingleLinkedListImpl<T>());
+			} else {
+				getNext().insert(element);
+			}
+		}
 	}
 
 	@Override
 	public void remove(T element) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (element != null) {
+			if (!(isEmpty())) {
+				if (getData().equals(element)) {
+					setData(getNext().getData());
+					setNext(getNext().getNext());
+				} else {
+					getNext().remove(element);
+				}
+			}
+		}
+
 	}
 
 	@Override
 	public T[] toArray() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		@SuppressWarnings("unchecked")
+		T[] array = (T[]) new Object[this.size()];
+		addArray(array, this, 0);
+		return array;
+	}
+
+	private void addArray(T[] array, RecursiveSingleLinkedListImpl<T> node, int i) {
+		if (!(node.isEmpty())) {
+			array[i] = node.getData();
+			addArray(array, node.getNext(), ++i);
+		}
+
 	}
 
 	public T getData() {

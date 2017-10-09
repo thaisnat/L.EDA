@@ -179,3 +179,269 @@
 2017-09-24 00:20:15,513 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/main/resources
 2017-09-24 00:20:15,524 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-09-24 00:20:15,524 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/test/resources
+2017-09-25 01:27:07,080 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:27:07,128 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:27:07,138 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:27:07,139 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:30:20,786 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:30:20,787 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:30:20,803 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:30:20,804 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:31:27,259 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:31:27,260 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:31:27,263 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:31:27,269 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:33:07,143 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:33:07,147 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:33:07,152 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:33:07,153 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:33:50,076 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:33:50,076 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:33:50,080 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:33:50,086 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:34:29,018 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:34:29,018 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:34:29,028 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:34:29,029 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:34:45,519 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:34:45,520 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:34:45,522 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:34:45,523 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:37:30,403 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:37:30,404 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:37:30,412 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:37:30,413 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:37:56,162 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:37:56,163 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:37:56,177 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:37:56,181 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:38:19,084 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:38:19,085 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:38:19,089 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:38:19,089 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:38:46,226 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:38:46,226 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:38:46,242 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:38:46,243 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 01:41:37,139 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:41:37,140 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-09-25 01:41:37,153 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:41:37,158 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-09-25 02:05:18,574 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:05:18,588 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-09-25 02:05:18,594 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:05:18,595 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-09-25 02:15:45,231 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:15:45,244 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-09-25 02:15:45,249 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:15:45,250 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-09-25 02:29:05,899 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:29:05,933 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-09-25 02:29:05,938 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:29:05,939 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-09-25 02:32:13,081 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:32:13,106 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-09-25 02:32:13,109 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 02:32:13,122 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-10-08 23:54:45,562 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-08 23:55:21,536 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/pom.xml.
+2017-10-08 23:55:21,535 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/pom.xml.
+2017-10-08 23:55:23,225 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:23,293 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/src/main/resources
+2017-10-08 23:55:23,303 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:23,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/src/test/resources
+2017-10-08 23:55:24,692 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/pom.xml.
+2017-10-08 23:55:24,694 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/pom.xml.
+2017-10-08 23:55:24,812 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:24,812 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/src/main/resources
+2017-10-08 23:55:24,816 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:24,817 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/src/test/resources
+2017-10-08 23:55:25,314 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml.
+2017-10-08 23:55:25,442 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:25,442 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/src/main/resources
+2017-10-08 23:55:25,449 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:25,451 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/src/test/resources
+2017-10-08 23:55:25,917 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/pom.xml.
+2017-10-08 23:55:26,026 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:26,027 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/main/resources
+2017-10-08 23:55:26,029 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:26,030 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/test/resources
+2017-10-08 23:55:27,592 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/pom.xml.
+2017-10-08 23:55:30,320 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:30,321 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-10-08 23:55:30,324 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:30,324 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-10-08 23:55:30,842 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/pom.xml.
+2017-10-08 23:55:30,922 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:30,923 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-10-08 23:55:30,925 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:30,926 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-10-08 23:55:31,137 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/pom.xml.
+2017-10-08 23:55:31,317 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:31,318 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/main/resources
+2017-10-08 23:55:31,321 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:31,322 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/test/resources
+2017-10-08 23:55:31,582 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/pom.xml.
+2017-10-08 23:55:31,637 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:31,638 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/src/main/resources
+2017-10-08 23:55:31,643 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:31,644 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/src/test/resources
+2017-10-08 23:55:32,101 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/pom.xml.
+2017-10-08 23:55:32,207 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:32,210 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/src/main/resources
+2017-10-08 23:55:32,213 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:32,213 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/src/test/resources
+2017-10-08 23:55:32,868 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/pom.xml.
+2017-10-08 23:55:33,073 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:33,074 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/src/main/resources
+2017-10-08 23:55:33,098 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:33,098 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/src/test/resources
+2017-10-08 23:55:34,625 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/pom.xml.
+2017-10-08 23:55:34,634 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/pom.xml.
+2017-10-08 23:55:34,931 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:34,932 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/src/main/resources
+2017-10-08 23:55:34,936 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:34,937 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/src/test/resources
+2017-10-08 23:55:35,175 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R12-01-Rot-Heap-environment/pom.xml.
+2017-10-08 23:55:35,230 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,231 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R12-01-Rot-Heap-environment/src/main/resources
+2017-10-08 23:55:35,236 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,237 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R12-01-Rot-Heap-environment/src/test/resources
+2017-10-08 23:55:35,419 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/pom.xml.
+2017-10-08 23:55:35,465 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,465 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/src/main/resources
+2017-10-08 23:55:35,467 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,468 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/src/test/resources
+2017-10-08 23:55:35,806 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/pom.xml.
+2017-10-08 23:55:35,896 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,896 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-08 23:55:35,898 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:35,899 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-08 23:55:36,143 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/pom.xml.
+2017-10-08 23:55:36,215 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,215 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/src/main/resources
+2017-10-08 23:55:36,217 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,218 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/src/test/resources
+2017-10-08 23:55:36,520 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/pom.xml.
+2017-10-08 23:55:36,583 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,583 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/main/resources
+2017-10-08 23:55:36,586 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,587 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/test/resources
+2017-10-08 23:55:36,850 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/pom.xml.
+2017-10-08 23:55:36,904 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,905 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/main/resources
+2017-10-08 23:55:36,907 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:36,908 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/test/resources
+2017-10-08 23:55:38,835 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/pom.xml.
+2017-10-08 23:55:38,873 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/pom.xml.
+2017-10-08 23:55:38,903 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/pom.xml.
+2017-10-08 23:55:38,936 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/pom.xml.
+2017-10-08 23:55:38,971 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/pom.xml.
+2017-10-08 23:55:39,005 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/pom.xml.
+2017-10-08 23:55:39,035 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/pom.xml.
+2017-10-08 23:55:39,083 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/pom.xml.
+2017-10-08 23:55:39,120 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/pom.xml.
+2017-10-08 23:55:39,202 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/pom.xml.
+2017-10-08 23:55:39,234 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/pom.xml.
+2017-10-08 23:55:39,261 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R12-01-Rot-Heap-environment/pom.xml.
+2017-10-08 23:55:39,302 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/pom.xml.
+2017-10-08 23:55:39,335 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/pom.xml.
+2017-10-08 23:55:39,362 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/pom.xml.
+2017-10-08 23:55:39,388 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/pom.xml.
+2017-10-08 23:55:39,415 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/pom.xml.
+2017-10-08 23:55:40,307 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,310 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/src/main/resources
+2017-10-08 23:55:40,313 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,314 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment/src/test/resources
+2017-10-08 23:55:40,355 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,355 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/src/main/resources
+2017-10-08 23:55:40,357 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,358 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment/src/test/resources
+2017-10-08 23:55:40,381 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,382 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/src/main/resources
+2017-10-08 23:55:40,384 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,386 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R03-01-Rot-LinearSorting-Countingsort-environment/src/test/resources
+2017-10-08 23:55:40,406 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,406 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/main/resources
+2017-10-08 23:55:40,408 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,409 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R04-01-Rot-Sorting-Gnome-e-Comb-environment/src/test/resources
+2017-10-08 23:55:40,435 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,437 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/main/resources
+2017-10-08 23:55:40,439 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,440 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R05-01-Rot-Pilha-FilaCircular-environment/src/test/resources
+2017-10-08 23:55:40,466 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,467 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/main/resources
+2017-10-08 23:55:40,470 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,470 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R06-01-Rot-Linked-list-abordagem-iterativa-environment/src/test/resources
+2017-10-08 23:55:40,489 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,490 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/main/resources
+2017-10-08 23:55:40,492 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,493 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/test/resources
+2017-10-08 23:55:40,513 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,515 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/src/main/resources
+2017-10-08 23:55:40,519 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,519 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R08-01-Rot-TabelaHash-EndFechado-environment/src/test/resources
+2017-10-08 23:55:40,548 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,550 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/src/main/resources
+2017-10-08 23:55:40,553 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,553 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R09-01-Rot-TabelaHash-EndAberto-environment/src/test/resources
+2017-10-08 23:55:40,576 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,576 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/src/main/resources
+2017-10-08 23:55:40,578 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,579 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R10-01-Rot-Arvore-Binaria-de-Busca-environment/src/test/resources
+2017-10-08 23:55:40,598 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,599 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/src/main/resources
+2017-10-08 23:55:40,601 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,601 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R11-01-Rot-BST-Comparator-Sorting-environment/src/test/resources
+2017-10-08 23:55:40,619 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,620 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R12-01-Rot-Heap-environment/src/main/resources
+2017-10-08 23:55:40,622 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,622 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R12-01-Rot-Heap-environment/src/test/resources
+2017-10-08 23:55:40,641 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,641 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/src/main/resources
+2017-10-08 23:55:40,643 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,643 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R13-01-Rot-ArvoreAVL-environment/src/test/resources
+2017-10-08 23:55:40,663 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,663 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-08 23:55:40,665 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,666 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-08 23:55:40,721 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,721 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/src/main/resources
+2017-10-08 23:55:40,725 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,726 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R15-01-Rot-SkipList-environment/src/test/resources
+2017-10-08 23:55:40,762 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,763 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/main/resources
+2017-10-08 23:55:40,766 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,767 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R16-01-Rot-ArvorePV-environment/src/test/resources
+2017-10-08 23:55:40,792 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,792 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/main/resources
+2017-10-08 23:55:40,794 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-08 23:55:40,795 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R17-01-Rot-ArvoreB-environment/src/test/resources
+2017-10-09 00:05:12,699 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:05:12,756 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/main/resources
+2017-10-09 00:05:12,760 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:05:12,761 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/test/resources
+2017-10-09 00:08:15,877 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:08:15,885 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/main/resources
+2017-10-09 00:08:15,890 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:08:15,892 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/test/resources
+2017-10-09 00:10:31,179 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:10:31,181 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/main/resources
+2017-10-09 00:10:31,184 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:10:31,185 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R07-01-Rot-Linked-list-abordagem-recursiva-environment/src/test/resources
+2017-10-09 00:21:10,116 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:21:10,153 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-09 00:21:10,159 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:21:10,160 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-09 00:25:47,063 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:25:47,068 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-09 00:25:47,077 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:25:47,077 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-09 00:25:48,185 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:25:48,186 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-09 00:25:48,189 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:25:48,190 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
+2017-10-09 00:27:16,165 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:27:16,166 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/main/resources
+2017-10-09 00:27:16,171 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 00:27:16,172 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nicolly/LEDA/R14-01-Rot-ArvoreAVLCountFill-environment/src/test/resources
